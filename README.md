@@ -35,8 +35,11 @@ This will install the following libraries:
     - The code will load the pre-trained YOLOv3 model, process the images, perform object detection, and display the results with bounding boxes and labels.
 
 ## Examples
+![Alt Text](ida-1.png)
 
-(You can include screenshots or code snippets demonstrating the usage and results of your project)
+![Alt Text](ida-2.png)
+
+![Alt Text](ida-3.png)
 
 ## Limitations
 
